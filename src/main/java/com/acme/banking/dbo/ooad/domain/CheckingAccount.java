@@ -11,7 +11,6 @@ public class CheckingAccount extends SavingAccount { //IS-A
         this.overdraft = overdraft;
     }
 
-
     public double getOverdraft() {
         return overdraft;
     }
